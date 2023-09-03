@@ -1,1 +1,1 @@
-# bin_cosmo
+Reconstruction of luminosity distance and Hubble parameter in bins
